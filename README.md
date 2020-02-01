@@ -1,9 +1,9 @@
-## React-CRUD
+# React-CRUD
 
-# Information
+## Information
 
-# Install
+## Install
 
-# Run
+## Run
 
-# Credits
+## Credits
